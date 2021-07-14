@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Sq4tS7ob3oobl" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom:lom>
+			<lom:general>
+				<lom:title>
+					<lom:langstring>Practice Test - 8</lom:langstring>
+				</lom:title>
+			</lom:general>
+			<lom:educational>
+				<lom:typicallearningtime>
+				<lom:datetime>01:00:00</lom:datetime>
+				</lom:typicallearningtime>
+			</lom:educational>
+		</lom:lom>
+	</metadata>
+	<organizations default="practice_test_-_8_organization">
+		<organization identifier="practice_test_-_8_organization">
+
+			<title>Practice Test - 8</title>
+			<item identifier="FF5535BE-BB1A-4557-B1F9-EBE2C820E3F3" identifierref="resource">
+				<title>Practice Test - 8</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+			<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fonts/fnt0.woff"/>
+<file href="res/data/fonts/fnt1.woff"/>
+<file href="res/data/fonts/fnt2.woff"/>
+<file href="res/data/fonts/fnt3.woff"/>
+<file href="res/data/fonts/fnt4.woff"/>
+<file href="res/data/fonts/fnt5.woff"/>
+<file href="res/data/goodbye.html"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/images/img-172a2f2e2399a61a4938f7459cbc6a96f5d67449.png"/>
+<file href="res/data/images/img-372515b7fa412fca136275dcc258b35eb6dd731f.png"/>
+<file href="res/data/images/img-458b02e0f8c15ce614217a185a9cf45ba79cafa0.png"/>
+<file href="res/data/images/img-602f922e1f859cab949da2223435d98b80b570a8.png"/>
+<file href="res/data/images/img-73c4709ad2e4bac402b495983243d55920bb37a9.png"/>
+<file href="res/data/images/img-80694594fb3659849d1f29e250a2bb0869ea8be7.png"/>
+<file href="res/data/images/img-8660bd6479ba55b7069a269cfe436194de4e2c79.png"/>
+<file href="res/data/images/img-b20e3a4d094c1461124071dad4749757edf140c5.jpg"/>
+<file href="res/data/images/img-f1a6cc8cab0d7ad4a767653cddaafc44061301a3.png"/>
+<file href="res/data/images/img-f73f0a823419ecc9177718c78e6b8e3c174de950.png"/>
+<file href="res/data/lms.js"/>
+<file href="res/data/player.js"/>
+<file href="res/index.html"/>
+
+		</resource>
+	</resources>
+</manifest>
